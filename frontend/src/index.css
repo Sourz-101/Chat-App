@@ -7,9 +7,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	/* background-color: rgb(113, 114, 113); */
 }
-
 
 /* dark mode looking scrollbar */
 ::-webkit-scrollbar {
@@ -28,8 +26,6 @@ body {
 ::-webkit-scrollbar-thumb:hover {
 	background: #242424;
 }
-
-
 
 /* SHAKE ANIMATION ON HORIZONTAL DIRECTION */
 .shake {
